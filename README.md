@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> <img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+--> ### Languages
+<img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white"/> 
+### Tools 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
