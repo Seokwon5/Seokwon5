@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 # Resume
 
-<img width="200" alt="52" src="https://user-images.githubusercontent.com/31889335/107122025-d58dd980-68d8-11eb-9590-3b532d701fec.png">
 
 안녕하세요 🙇🏻 
 
