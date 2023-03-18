@@ -52,7 +52,7 @@ __프로그래밍 언어 Swift__ 와 swiftUI 에 관심이 많고 꾸준히 공�
 
 * __친구들의 MBTI를 저장해두고 관리하는 어플리케이션__
 
-* [AppStore 다운로드]
+* [AppStore 다운로드] https://apps.apple.com/us/app/%EB%A0%98%EB%B9%84/id6446311376?platform=iphone
 
 * SwiftUI를 공부하면서 진행한 개인 프로젝트
 
