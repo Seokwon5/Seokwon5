@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 🔧 Tools    
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> 
 
+Show Detail
+https://github.com/Seokwon5/Resume
+
 
