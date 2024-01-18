@@ -1,4 +1,4 @@
-### Hi there👋 I'm mobile app developer using IOS.
+### Hi there👋 I'm Java developer.
 
 <!--
 **Seokwon5/Seokwon5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
